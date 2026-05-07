@@ -54,5 +54,3 @@ I can be a Programmer, or a Progamer.
 </div>
 
 </div>
-<br>
-I HEART NATASYA ❤️
