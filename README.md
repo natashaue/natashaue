@@ -1,16 +1,16 @@
 <div align="center">
 
-# Hi! Namaku Natasha 👋
+# Hi! My name is Natasha 👋
 
-### 💫 Tentang Aku
+### 💫 About Me
 
-Saya manusia biasa, makan nasi
+I'm just an ordinary human, I eat rice.
 <br>
-Bisa jadi Programmer bisa jadi Progamer
+I can be a Programmer, or a Progamer.
 
 ---
 
-### 🚀 Tech Stack yang Aku Pake
+### 🚀 Tech Stack I Use
 
 <div align="center">
   <!-- Frontend -->
@@ -33,7 +33,7 @@ Bisa jadi Programmer bisa jadi Progamer
 
 ---
 
-### 📫 Kontak Aku
+### 📫 Contact Me
 
 <div align="center">
   <a href="https://linkedin.com/in/[LINKEDIN_KAKAK]" target="_blank">
@@ -50,7 +50,7 @@ Bisa jadi Programmer bisa jadi Progamer
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=5000&color=000000&center=true&vCenter=true&width=700&height=70&background=FFFFFF&lines=Sigma+lah+sebelum+kamu+di+Sigma+kan+-+NavySocrates" alt="Quotes" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=5000&color=000000&center=true&vCenter=true&width=700&height=70&background=FFFFFF&lines=Be+Sigma+before+you+get+Sigma'd+-+NavySocrates" alt="Quotes" />
 </div>
 
 </div>
