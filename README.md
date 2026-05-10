@@ -3,8 +3,7 @@
 # Hi! My name is Natasha :b
 
 ### About Me
-
-
+Just an Ordinary person.
 <br>
 
 
