@@ -33,16 +33,16 @@
 
 ---
 
-### 📫 Contact Me
+### Contact Me
 
 <div align="center">
   <a href="https://linkedin.com/in/[LINKEDIN_KAKAK]" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://instagram.com/navysigma" target="_blank">
+  <a href="https://instagram.com/natashaaue" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="mailto:niorugarox@gmail.com" target="_blank">
+  <a href="mailto:nnatashaue@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
