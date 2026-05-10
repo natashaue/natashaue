@@ -50,7 +50,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=5000&color=000000&center=true&vCenter=true&width=700&height=70&background=FFFFFF&lines=I+never+considered+you+an+ally.+Not+even+for+a+second.+People+are+nothing+but+tools+to+me." alt="Quotes" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=5000&color=000000&center=true&vCenter=true&width=700&height=70&background=FFFFFF&lines=I+never+considered+you+an+ally.+Not+even+for+a+second.+People+are+nothing+but+tools+to+me." alt="Quotes" />
 </div>
 
 </div>
