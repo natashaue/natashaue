@@ -1,12 +1,12 @@
 <div align="center">
 
-# Hi! My name is Natasha 👋
+# Hi! My name is Natasha :b
 
-### 💫 About Me
+### About Me
 
-I'm just an ordinary human, I eat rice.
+
 <br>
-I can be a Programmer, or a Progamer.
+
 
 ---
 
