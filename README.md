@@ -10,7 +10,7 @@
 
 ---
 
-### 🚀 Tech Stack I Use
+### Tech Stack
 
 <div align="center">
   <!-- Frontend -->
